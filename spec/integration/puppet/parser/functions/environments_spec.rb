@@ -14,7 +14,7 @@ describe "the environments function" do
   end
 
   it "should list all environments" do
-    expect(the_scope.function_environments([])).to eq(['bar', 'baz', 'foo', 'production'])
+    expect(the_scope.function_environments([])).to contain_exactly('bar', 'baz', 'production', 'foo')
   end
 end
 
