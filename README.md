@@ -1,6 +1,6 @@
 # env_utils
 
-This Puppet module contains a handful of parser functions that allow access to Puppet environment internals from the DSL.
+This Puppet module contains a handful of parser functions that allow reflection of Puppet environment internals from the DSL.
 
 ## Environments
 ```puppet
