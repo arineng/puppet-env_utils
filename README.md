@@ -1,4 +1,5 @@
 # env_utils
+[![Build Status](https://travis-ci.org/jolshevski/puppet-env_utils.svg?branch=master)](https://travis-ci.org/jolshevski/puppet-env_utils)
 
 This Puppet module contains a handful of parser functions that allow reflection of Puppet environment internals from the DSL.
 
