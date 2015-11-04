@@ -1,0 +1,11 @@
+{
+  "name": "jordan-env_utils",
+  "version": "0.0.1",
+  "author": "Jordan Olshevski",
+  "license": "Apache-2.0",
+  "summary": "Puppet environment reflection functions",
+  "source": "https://github.com/jolshevski/puppet-env_utils",
+  "project_page": "https://github.com/jolshevski/puppet-env_utils",
+  "issues_url": "https://github.com/jolshevski/puppet-env_utils/issues",
+  "tags": ["utility", "library", "reflection", "environment", "helpers", "helper", "functions"]
+}
