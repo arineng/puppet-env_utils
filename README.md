@@ -27,4 +27,4 @@ environment_modules("foo") # => ["nginx", ...]
 ```
 
 ## Development
-This module is a work in progress, and has not yet been released on the forge. Feel free to contribute suggestions (in GH issues) or PRs.
+This module is a work in progress. Feel free to contribute suggestions (in GH issues) or PRs.
