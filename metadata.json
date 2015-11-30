@@ -1,6 +1,6 @@
 {
   "name": "jordan-env_utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Jordan Olshevski",
   "license": "Apache-2.0",
   "summary": "Puppet environment reflection functions",
