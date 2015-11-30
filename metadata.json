@@ -7,6 +7,6 @@
   "source": "https://github.com/jolshevski/puppet-env_utils",
   "project_page": "https://github.com/jolshevski/puppet-env_utils",
   "issues_url": "https://github.com/jolshevski/puppet-env_utils/issues",
-  "tags": ["utility", "library", "reflection", "environment", "helpers", "helper", "functions"]
+  "tags": ["utility", "library", "reflection", "environment", "helpers", "helper", "functions"],
   "dependencies": [ ]
 }
